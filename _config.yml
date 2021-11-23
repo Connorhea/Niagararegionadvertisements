@@ -19,12 +19,12 @@ source-code: https://github.com/connorhea/test11
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: title
+title: Niagara As Told Through Its Advertisements
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: tagline
+tagline: A collection of advertisements from the Niagara region during the long 19th century
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "description"
+description: "A collection of advertisements from businesses in the Niagara region from the Archives and Special Collections at Brock University. "
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Connor Old
 
