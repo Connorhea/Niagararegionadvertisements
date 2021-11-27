@@ -14,4 +14,4 @@ credits: true
 
 ## About the Collection
 
-about this section
+500 words
