@@ -1,8 +1,8 @@
 color_class,color
 primary,
 secondary,
-success,#530000
-info,
+success,
+info,#530000
 warning,
 danger,
 light,
