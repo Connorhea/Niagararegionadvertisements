@@ -26,4 +26,5 @@ These advertisements lend insight into the region by displaying the fashion, gen
 
 
 Works Cited
+
 Mainardi, Patricia. "The Invention of the Illustrated Press in France." French politics, culture and society (2017): 34-48. Web.
